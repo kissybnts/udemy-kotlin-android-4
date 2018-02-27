@@ -1,7 +1,8 @@
-package com.kissybnts.udemyandroid4
+package com.kissybnts.udemyandroid4.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.kissybnts.udemyandroid4.R
 
 class MainActivity : AppCompatActivity() {
 
