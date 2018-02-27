@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UdemyAndroid4</string>
+    <string name="categories">Categories</string>
 </resources>
