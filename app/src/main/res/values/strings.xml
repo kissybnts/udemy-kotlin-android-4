@@ -2,4 +2,5 @@
     <string name="app_name">UdemyAndroid4</string>
     <string name="categories">Categories</string>
     <string name="products">Products</string>
+    <string name="product_image">Product image</string>
 </resources>
